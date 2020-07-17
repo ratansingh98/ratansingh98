@@ -12,7 +12,7 @@ Nowadays I am devoted to competitive coding and game development but open to goo
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://twitter.com/Ratan_Singh98"> Twitter</a>.<img src="https://raw.githubusercontent.com/ratansingh98/ratansingh98/master/icons/twitter.png" height="18px" alt="Twitter Icon">
   
-- Talk with me on <a href="https://rsdharra.com/">LinkedIn</a>.<img src="icons/linkedin.png" height="18px" alt="Twitter Icon">
+- Talk with me on <a href="https://rsdharra.com/">LinkedIn</a>.<img src="https://raw.githubusercontent.com/ratansingh98/ratansingh98/master/icons/linkedin.png" height="18px" alt="LinkedIn Icon">
   
 - Check out my blog and about me <a href="https://www.linkedin.com/in/ratan-singh-dharra-198931144/">Portfolio</a>.<img src="https://raw.githubusercontent.com/ratansingh98/ratansingh98/master/icons//portfolio.png" height="18px" alt="Portfolio Icon">
   
